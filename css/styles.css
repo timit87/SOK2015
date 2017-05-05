@@ -29,6 +29,7 @@ div {
 			color: #6d8e01;
 			line-height: 65px;
 			cursor: pointer;
+			position: relative;
 		}
 			.b-header__logo:hover {
 				color: #6d8e01;
